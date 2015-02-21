@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tile" tilewidth="32" tileheight="32">
+  <image source="../../images/map/tile.png" width="192" height="96"/>
+ </tileset>
+ <layer name="scenario" width="20" height="15">
+  <properties>
+   <property name="tileset" value="tile"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzjZWBg4KMQcyNhagAuKpvHy4BwJzUB+6h5o+YNQ/NYgJiVCpgDahY3FTEAwG4C0Q==
+  </data>
+ </layer>
+ <objectgroup name="enemy" width="20" height="15"/>
+ <objectgroup name="block" width="20" height="15"/>
+</map>
