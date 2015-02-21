@@ -5,3 +5,5 @@ A 2D shoot 'em up with tiled levels. Made with HaxeFlixel.
 
 Check out the step by step tutorial: http://www.strandedsoft.com/haxeflixel-tutorial-building-your-first-2d-shoot-em-up-part-i/
 
+(Gradius music belongs to Konami Digital Entertainment Inc.)
+
